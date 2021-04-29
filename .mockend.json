@@ -1,0 +1,6 @@
+{
+	"name": "string",
+	"_id": "int",
+	"longitude": "int",
+	"latitude": "int"
+}
