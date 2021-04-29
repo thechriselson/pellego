@@ -1,6 +1,8 @@
 {
-	"name": "string",
-	"_id": "int",
-	"longitude": "int",
-	"latitude": "int"
+	"Property": {
+		"_id": "int",
+		"name": "string",
+		"longitude": "int",
+		"latitude": "int"
+	}
 }
