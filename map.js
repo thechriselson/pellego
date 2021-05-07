@@ -79,8 +79,7 @@ function mapboxMapsSetup(container) {
 }
 
 document.querySelectorAll("[data-mapbox='container']").forEach((container) => {mapboxMapsSetup(container)})
-</script>
-<script>
+
 var mapboxFilters = [];
 
 function mapboxFilterSetup(cont) {
